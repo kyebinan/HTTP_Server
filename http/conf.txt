@@ -1,0 +1,7 @@
+http://127.0.0.1
+/home/kali/Downloads/site1/
+http://127.0.0.2
+/home/userir/Downloads/site2/
+http://127.0.0.3
+/home/userir/Downloads/site3/
+
